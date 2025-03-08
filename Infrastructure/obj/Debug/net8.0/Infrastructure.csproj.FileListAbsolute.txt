@@ -1,0 +1,17 @@
+F:\ResumeBuilderAssignment\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+F:\ResumeBuilderAssignment\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+F:\ResumeBuilderAssignment\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+F:\ResumeBuilderAssignment\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+F:\ResumeBuilderAssignment\Infrastructure\bin\Debug\net8.0\Domain.dll
+F:\ResumeBuilderAssignment\Infrastructure\bin\Debug\net8.0\Domain.pdb
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
