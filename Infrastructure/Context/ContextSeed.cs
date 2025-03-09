@@ -22,7 +22,7 @@ namespace Infrastrucure.Context
                 {
                     Id = Guid.NewGuid(),
                     UserName = "admin",
-                    PasswordHash = hashedPassword, // استبدلها بكلمة المرور المشفرة الفعلية
+                    PasswordHash = hashedPassword,
                     UserRole = Role.Admin,
                     State = State.NotDeleted,
                     CreatedBy = Guid.NewGuid(),
