@@ -15,3 +15,4 @@ F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\refint\Infrastructure
 F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+F:\ResumeBuilderAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
